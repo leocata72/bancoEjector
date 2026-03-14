@@ -13,7 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="src" Type="Folder">
-			<Item Name="ejettortest" Type="Folder" URL="..">
+			<Item Name="bancoEjector" Type="Folder" URL="..">
 				<Property Name="NI.DISK" Type="Bool">true</Property>
 			</Item>
 		</Item>
